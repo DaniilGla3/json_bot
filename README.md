@@ -13,18 +13,9 @@
 
 ## 🖼 Скриншоты
 
-Стартовое меню:
+Пример работы:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/menu.png)
-
-После отправки JSON c ошибкой:
-
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/syntax.png)
-
-Пример работы бьютифаера:
-
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
-
+![image](https://raw.githubusercontent.com/DaniilGla3/json_bot/refs/heads/main/Bot_screenshot.png)
 
 ## 💻 Технологии
 
