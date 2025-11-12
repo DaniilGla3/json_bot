@@ -28,8 +28,7 @@
    
 2. Создать бота и через [@BotFather](https://t.me/BotFather) и вставить в проекте свой токен от бота
 
-3. Создаём виртуальное окружение внутри папки проекта.
-Далее команды для MacOS (для windows инуструкция [есть вот тут](https://realpython.com/python-virtual-environments-a-primer/#create-it))
+3. Создаём виртуальное окружение внутри папки проекта по инструкции. [инструкция](https://realpython.com/python-virtual-environments-a-primer/#create-it))
 
 ``` markdown
 python3 -m venv venv
